@@ -2,7 +2,7 @@
 
 An interactive visualization tool for the A* (A-Star) pathfinding algorithm built with Python. Watch how the algorithm finds the shortest path through a randomly generated maze in real-time!
 
-![A* Visualization Demo](maze_finder.mp4)  
+![A* Visualization Demo](maze_finder_gif.gif)  
 
 ## ✨ Features
 
